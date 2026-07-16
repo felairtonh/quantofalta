@@ -23,39 +23,46 @@ Seu gerenciador de figurinhas da copa do mundo! Marque o que tem, veja quanto fa
 ## Descrição (pt-BR)
 Seu gerenciador de figurinhas da copa do mundo!
 
-Quanto Falta? responde a pergunta que todo colecionador faz. Marque suas figurinhas
-com um toque, veja o progresso de cada seleção e organize as trocas com os amigos.
+"Quanto Falta?" Responde a pergunta que todo colecionador faz. Marque suas figurinhas com um toque, veja o progresso de cada seleção e organize as trocas com os amigos e nos eventos.
 
-• MODO PÁGINAS — folheie o álbum como se fosse o de verdade: cada figurinha no
-  lugar exato da página, com efeito de virar página.
-• TENHO / FALTAM — filtre por faltantes, Brilhantes ou uma seleção; busque por
-  nome ou número; ordene na ordem do álbum ou de A–Z.
-• REPETIDAS = LISTA DE TROCA — tudo que você tem em dobro, com contagem, pronto
-  para exportar em texto ou CSV e mandar no grupo.
-• ÁLBUM DIGITAL — acompanhe também sua coleção do app oficial de figurinhas
-  digitais, separada da física, antes de criar pedidos de troca.
-• 100% OFFLINE — seus dados ficam só no seu aparelho. Sem conta, sem anúncios,
-  sem rastreamento.
+• MODO PÁGINAS:
+   — folheie o álbum como se fosse o de verdade: cada figurinha no lugar exato da página
+• TENHO / FALTAM 
+   — filtre por faltantes, brilhantes ou uma seleção customizada para facilitar suas trocas. 
+   — Busque por nome ou número; 
+   — Ordene na ordem do álbum ou de A–Z. 
+• REPETIDAS = LISTA DE TROCA:
+   — Tudo que você tem repetido, com contagem, pronto para exportar em texto ou CSV e mandar pra geral.
+• ÁLBUM DIGITAL:
+   — acompanhe também sua coleção do app oficial de figurinhas do album digital, separado da coleção física, antes de criar pedidos de troca. 
+• 100% OFFLINE:
+   — seus dados ficam só no seu aparelho. Sem conta, sem anúncios e sem rastreamento.
 
-Aplicativo independente, feito por colecionador. Não é afiliado, patrocinado ou
-endossado pela Panini ou pela FIFA.
+Aplicativo independente, feito por colecionador. Não é afiliado, patrocinado ou endossado pela Panini ou pela FIFA.
 
 ## Description (en)
 Your World Cup sticker manager!
 
-What's Missing? answers the one question every collector asks. Mark stickers with
-a tap, watch each team's progress, and organize swaps with friends.
+"What's Missing?" answers the one question every collector asks. Mark your
+stickers with a tap, watch each team's progress, and organize your swaps with
+friends and at trading events.
 
-• PAGES VIEW — flip through the album like the real thing, every sticker in its
-  exact printed spot, with a page-turn effect.
-• GOT / MISSING — filter by missing, foils, or a single team; search by name or
-  number; sort in album order or A–Z.
-• DUPLICATES = TRADE LIST — everything you own twice, with counts, exportable as
-  text or CSV.
-• DIGITAL ALBUM — track your official digital sticker app collection separately
-  from the physical one.
-• 100% OFFLINE — your data never leaves your device. No account, no ads, no
-  tracking.
+• PAGES VIEW:
+   — flip through the album like the real thing: every sticker in its exact
+     spot on the page
+• GOT / MISSING:
+   — filter by missing stickers, foils, or a custom team selection to make
+     your trades easier.
+   — Search by name or number;
+   — Sort in album order or A–Z.
+• DUPLICATES = TRADE LIST:
+   — Everything you own twice, with counts, ready to export as text or CSV
+     and send to the whole group.
+• DIGITAL ALBUM:
+   — also track your collection from the official digital sticker album app,
+     separate from your physical one, before creating swap requests.
+• 100% OFFLINE:
+   — your data stays only on your device. No account, no ads and no tracking.
 
 Independent app made by a collector. Not affiliated with, sponsored or endorsed
 by Panini or FIFA.
