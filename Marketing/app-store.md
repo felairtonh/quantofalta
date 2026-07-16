@@ -78,6 +78,6 @@ are nominative/factual only.
 Ordem sugerida: 02 (páginas Brasil) → 04 (lista) → 06 (repetidas) → 05 (digital)
 → 03 (página 2) → 01 (boas-vindas).
 
-## URLs (pendente hospedar — ver Marketing/privacy.html)
-- Política de privacidade: obrigatório informar URL no App Store Connect.
-- Suporte: pode ser a mesma página, com e-mail de contato.
+## URLs (GitHub Pages — habilitar em Settings → Pages → main / root)
+- Política de privacidade: https://felairtonh.github.io/quantofalta/privacy.html
+- Suporte: https://felairtonh.github.io/quantofalta/
