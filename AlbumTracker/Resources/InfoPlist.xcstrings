@@ -1,0 +1,20 @@
+{
+  "sourceLanguage" : "en",
+  "version" : "1.0",
+  "strings" : {
+    "CFBundleDisplayName" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's Missing?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quanto Falta?" } }
+      }
+    },
+    "CFBundleName" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's Missing?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quanto Falta?" } }
+      }
+    }
+  }
+}

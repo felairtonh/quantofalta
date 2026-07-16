@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Xcode — user state and build products
+build/
+DerivedData/
+xcuserdata/
+*.xcresult
+
+# The Xcode project is generated from project.yml — run `xcodegen generate`
+# (see README). Remove this line if you'd rather commit the .xcodeproj.
+AlbumTracker.xcodeproj/
+
+# Python (DataPipeline)
+__pycache__/
+*.pyc
